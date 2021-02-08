@@ -1,5 +1,7 @@
 # Front Left Logo
 
+[Access here](https://front-left.github.io/fl-logo/index.html)
+
 Built with Node and Three.js.
 
 JS is bundled together using Browserify, so no need to build with node. Logo.js contains original code, LogoBundle.js contains code bundled with requirements e.g. Three.js
