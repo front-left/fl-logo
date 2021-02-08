@@ -1,6 +1,6 @@
 # Front Left Logo
 
-[Access here](https://front-left.github.io/fl-logo/index.html)
+[Access demo here](https://front-left.github.io/fl-logo/index.html)
 
 Built with Node and Three.js.
 
