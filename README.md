@@ -2,12 +2,11 @@
 
 Built with Node and Three.js.
 
-JS is bundled together using Browserify.
+JS is bundled together using Browserify, so no need to build with node. Logo.js contains original code, LogoBundle.js contains code bundled with requirements e.g. Three.js
 
 ## To Run (locally, with node):
 
-* run: npm i
-* run: npm install http-server (need to run with http-server to workaround same origin policy for asset files)
+* run: npm install http-server -g (need to run with http-server to workaround same origin policy for asset files)
 * run: http-server
 * navigate to the specified address, e.g. localhost:8080/index.html
 
